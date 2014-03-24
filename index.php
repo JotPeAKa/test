@@ -1,3 +1,3 @@
 <?php
 
-echo 'Nju ssie!';
+echo 'Nju ssie!'; xd
